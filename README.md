@@ -1,3 +1,4 @@
+![logo](https://github.com/Pravesh-Sudha/Pravesh-Sudha/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Pravesh Sudha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
