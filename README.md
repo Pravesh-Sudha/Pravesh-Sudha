@@ -12,7 +12,7 @@
 
 - I have recently contributed in [an Open-Source Project (Testkube)](https://github.com/kubeshop/testkube)
 
-- All of my Projects are available at [https://linkfree.io/Pravesh-Sudha](https://linkfree.io/Pravesh-Sudha)
+- All of my Projects are available at my [Biodrop](https://biodrop.io/Pravesh-Sudha) Link.
 
 - 📝 I regularly write articles on [https://hashnode.com/@praveshstwt](https://hashnode.com/@praveshstwt)
 
