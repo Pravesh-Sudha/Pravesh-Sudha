@@ -14,7 +14,7 @@
 
 - All of my Projects are available at my [Biodrop](https://biodrop.io/Pravesh-Sudha) Link.
 
-- 📝 I regularly write articles on [https://hashnode.com/@praveshstwt](https://hashnode.com/@praveshstwt)
+- 📝 I regularly write articles on [Praveshstwt hashnode](https://hashnode.com/@praveshstwt)
 
 - 💬 Ask me about **Android and basic docker and Kubernetes**
 
