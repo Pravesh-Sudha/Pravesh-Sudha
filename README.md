@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Praveshstwt hashnode](https://hashnode.com/@praveshstwt)
 
-- 💬 Ask me about **Android and basic docker and Kubernetes**
+- 💬 Ask me about **DevOps and basic docker and Kubernetes**
 
 - 📫 How to reach me **programmerpravesh@gmail.com**
 
