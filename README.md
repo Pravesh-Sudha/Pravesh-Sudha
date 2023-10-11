@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/praveshstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveshstwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pravesh-sudha-82a37422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pravesh-sudha-82a37422a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pravesh-sudha-82a37422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pravesh-sudha-82a37422a/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@praveshstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@praveshstwt" height="30" width="40" /></a>
 </p>
 
