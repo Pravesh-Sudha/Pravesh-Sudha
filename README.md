@@ -33,7 +33,7 @@ Currently, I'm working on **Python-for-DevOps**, AWS cloud cost optimization, an
 - 📜 Medium: [Pravesh Sudha](https://medium.com/@programmerpravesh)  
 - 🎥 YouTube: [Pravesh Sudha](https://www.youtube.com/@pravesh-sudha)  
 - 💻 GitHub: [Pravesh-Sudha](https://github.com/Pravesh-Sudha)
-- 🧑‍💻 Dev.to: [Pravesh Sudha]([https://dev.to/](https://dev.to/pravesh_sudha_3c2b0c2b5e0))  
+- 🧑‍💻 Dev.to: [Pravesh Sudha](https://dev.to/pravesh_sudha_3c2b0c2b5e0))  
 
 ---
 
