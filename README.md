@@ -13,14 +13,20 @@
 
 ## About Me  
 
-Hey there! I'm **Pravesh Sudha**, a DevOps Engineer with a passion for automation, cloud computing, and open-source contributions. Coming from a **philosophy** background, I blend **critical thinking** with **tech expertise** to solve complex infrastructure challenges.  
+Hey there! I'm **Pravesh Sudha**, a DevOps Engineer with a passion for automation, cloud computing, and open-source contributions.  
+Coming from a **philosophy** background, I blend **critical thinking** with **tech expertise** to solve complex infrastructure challenges.  
+
+🏆 **AWS Community Builder** (Containers)  
+🥇 **Winner:** AWS Containers 4x4 Challenge  
+🥈 **Winner:** Runner-H X Dev.to Challenge  
 
 🔹 **Experience:** 2+ years in DevOps & Cloud Computing  
 🔹 **Tech Stack:** Python, GoLang, Docker, Kubernetes, Terraform, AWS, CI/CD (Jenkins, ArgoCD, GitLab)  
 🔹 **Open Source Contributions:** Kestra, Testkube, WeMakeDevs  
 🔹 **Content Creator:** Sharing beginner-friendly DevOps insights through blogs & videos  
 
-Currently, I'm working on **Python-for-DevOps**, AWS cloud cost optimization, and automated infrastructure deployment using **Jenkins & Terraform**. I also share my learnings through blogs and YouTube videos to help others on their tech journey!  
+Currently, I'm working on **Python-for-DevOps**, AWS cost optimization, and automated infrastructure deployment using **Jenkins & Terraform**.  
+I love turning complex workflows into simple tutorials to help the community! 🚀  
 
 ---
 
@@ -32,17 +38,18 @@ Currently, I'm working on **Python-for-DevOps**, AWS cloud cost optimization, an
 - 💼 LinkedIn: [Pravesh Sudha](https://www.linkedin.com/in/pravesh-sudha/)  
 - 📜 Medium: [Pravesh Sudha](https://medium.com/@programmerpravesh)  
 - 🎥 YouTube: [Pravesh Sudha](https://www.youtube.com/@pravesh-sudha)  
-- 💻 GitHub: [Pravesh-Sudha](https://github.com/Pravesh-Sudha)
+- 💻 GitHub: [Pravesh-Sudha](https://github.com/Pravesh-Sudha)  
 - 🧑‍💻 Dev.to: [Pravesh Sudha](https://dev.to/pravesh_sudha_3c2b0c2b5e0)  
 
 ---
 
-## 🛠️ Projects & Blogs  
+## 🛠️ Latest Projects, Blogs & Videos  
 
-📌 **Latest Blog:** [Automated AWS Infrastructure Deployment with Jenkins & Terraform](https://blog.praveshsudha.com)  
+📌 **Latest Blog:** [Deploying a 3-Tier Application on AWS EKS](https://blog.praveshsudha.com/deploying-3-tier-app-on-eks)  
 📌 **Recent Contributions:** [Kestra Open Source Project](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-contributed-to-kestra-a-beginners-perspective-4leo)  
+🎥 **Latest YouTube Video:** [Deploying 3-Tier App on AWS EKS (Behind the Scenes)](https://youtu.be/n8BQ3XlCiKE)  
 
-Check out my **GitHub repositories** for more exciting projects! 🚀  
+Check out my **GitHub repositories** for more exciting projects! 🌟  
 
 ---
 
@@ -50,4 +57,4 @@ Check out my **GitHub repositories** for more exciting projects! 🚀
 
 ---
 
-Thanks for visiting! Feel free to connect or collaborate! 😊  
+Thanks for visiting! Feel free to connect or collaborate! 😊
