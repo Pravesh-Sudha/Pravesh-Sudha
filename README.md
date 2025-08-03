@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-🚀 DevOps Engineer | 🖥 Open Source Enthusiast | ✍️ Tech Blogger | 🎥 Content Creator  
+🚀 DevOps Engineer | Certified AWS Solutions Architect | 🖥 Open Source Enthusiast | ✍️ Tech Blogger | 🎥 Content Creator  
 </p>
 
 ---
