@@ -17,7 +17,7 @@ Hey there! I'm **Pravesh Sudha**, a DevOps Engineer with a passion for automatio
 Coming from a **philosophy** background, I blend **critical thinking** with **tech expertise** to solve complex infrastructure challenges.  
 
 🏆 **AWS Community Builder** (Containers)  
-🥇 **Winner:** AWS Containers 4x4 Challenge  
+🥇 **Winner:** AWS Containers 4x4 Challenge (2 times)
 🥈 **Winner:** Runner-H X Dev.to Challenge  
 
 🔹 **Experience:** 2+ years in DevOps & Cloud Computing  
